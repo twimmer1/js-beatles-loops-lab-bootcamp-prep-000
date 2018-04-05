@@ -23,5 +23,5 @@ function iLoveTheBeatles() {
     result[i] = "I love the Beatles!"
   }
   while (i < 15)
+  return result
 }
-return result
