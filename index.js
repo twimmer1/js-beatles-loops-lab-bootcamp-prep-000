@@ -20,7 +20,7 @@ function iLoveTheBeatles(i) {
   //var i = 0
   var result = []
   do {
-    result[i] = "I love the Beatles!"; 
+    result.push("I love the Beatles!"); 
     //result.push("something");
     i++;
   }
